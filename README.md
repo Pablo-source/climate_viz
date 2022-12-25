@@ -21,9 +21,28 @@ https://www.youtube.com/watch?v=fskblEWSeWU. From https://www.youtube.com/@Riffo
 
 Following the above videos, I am replicating the Global Temperature plot displayed when selecting “**Global Temperature**” indicator from above website.
 
+
+### Data download from GISS Surface Temperature Analysis (GISTEMP v4) website from the National Aeronautics and Space Administration Goddard Institute for Space Studies.
+
 https://climate.nasa.gov/
 
-## Project outline
+Download data for this plot from 
+
+https://data.giss.nasa.gov/gistemp/
+
+Tables of Global and Hemispheric Monthly Means and Zonal Annual Means
+
+Global-mean monthly, seasonal, and annual means, 1880-present, updated through
+most recent month: TXT, CSV
+
+We download the CSV file for this data
+
+GLOBAL LAND-OCEAN TEMPERATURE INDEX
+
+Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GISS
+
+
+### Project outline
 
 1. Learn how to obtain a **personal access token in GiHub** to Clone the newly created GitHUb repository **climate_viz**
 
