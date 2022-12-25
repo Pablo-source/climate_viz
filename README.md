@@ -37,7 +37,7 @@ Tables of Global and Hemispheric Monthly Means and Zonal Annual Means
 Global-mean monthly, seasonal, and annual means, 1880-present, updated through
 most recent month: TXT, CSV
 
-We download the CSV file for this data
+We download the CSV file for this project
 
 GLOBAL LAND-OCEAN TEMPERATURE INDEX
 
