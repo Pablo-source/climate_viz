@@ -15,14 +15,14 @@ I will be using RStudio to create several R and Rmarkdown scripts, doing GiHub c
 https://www.youtube.com/watch?v=d5dUkO5lXds&list=PLmNrK_nkqBpLdTEOj_-bwp58490i8ezRI&index=9
 
 2. Tutorial to mimic Climate Change temperature visualization from NASA. "Plotting the global temperature index using ggplot2 and NASA GISS data (CC214)"  
-https://www.youtube.com/watch?v=fskblEWSeWU. From https://www.youtube.com/@Riffomonas youtube channel.
+https://www.youtube.com/watch?v=fskblEWSeWU. From https://www.youtube.com/@Riffomonas youtube channel
 
 ### Output
 
 Following the above videos, I am replicating the Global Temperature plot displayed when selecting “**Global Temperature**” indicator from above website.
 
 
-### Data
+### Data 
 
 Data for this visualization download from GISS Surface Temperature Analysis (GISTEMP v4) website from the National Aeronautics and Space Administration Goddard Institute for Space Studies.
 
