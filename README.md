@@ -34,10 +34,10 @@ https://data.giss.nasa.gov/gistemp/
 
 Tables of Global and Hemispheric Monthly Means and Zonal Annual Means
 
+We download the CSV file below for this project: 
+
 Global-mean monthly, seasonal, and annual means, 1880-present, updated through
 most recent month: TXT, CSV
-
-We download the CSV file for this project
 
 GLOBAL LAND-OCEAN TEMPERATURE INDEX
 
