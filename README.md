@@ -22,7 +22,9 @@ https://www.youtube.com/watch?v=fskblEWSeWU. From https://www.youtube.com/@Riffo
 Following the above videos, I am replicating the Global Temperature plot displayed when selecting “**Global Temperature**” indicator from above website.
 
 
-### Data download from GISS Surface Temperature Analysis (GISTEMP v4) website from the National Aeronautics and Space Administration Goddard Institute for Space Studies.
+### Data
+
+Data for this visualization download from GISS Surface Temperature Analysis (GISTEMP v4) website from the National Aeronautics and Space Administration Goddard Institute for Space Studies.
 
 https://climate.nasa.gov/
 
