@@ -60,9 +60,11 @@ Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GIS
 ![image](https://user-images.githubusercontent.com/76554081/209535212-4613b5fe-59e9-40c2-b1e5-defa1480365c.png)
 ![image](https://user-images.githubusercontent.com/76554081/209535225-4ccd6291-6d72-44ef-8782-a5a7bd06c65e.png)
 
-
-
 3. When creating this new version control project I will need the **HTTPS** GitHub climate_viz URL address to link my local RStudio Project with GitHub.This will allow me to create new GitHub **actions** such as **Commit** and **Push** from **RStudio** directly into my GitHub repository
+
+![image](https://user-images.githubusercontent.com/76554081/209535399-8c40c258-e5b3-4215-ab09-a8c444cdb3cf.png)
+
+![image](https://user-images.githubusercontent.com/76554081/209535440-4f3fe797-7a3d-4556-b739-285009519474.png)
 
 4. In RStudio I have created several README files as .md files and save them each of them on the corresponding project sub-folders:
 - Code/README.md
