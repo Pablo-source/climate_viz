@@ -79,6 +79,7 @@ Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GIS
 6. Then Push the changes to the GitHub repo to be able to go over the GitHub website and see the new files published in the climate_viz repository
 
 ![image](https://user-images.githubusercontent.com/76554081/209536005-187dddbc-fcbe-4635-a9a9-63c8b15ff8ba.png)
+![image](https://user-images.githubusercontent.com/76554081/209536385-51bbffe4-3488-48a3-95cc-6dd2a2350525.png)
 
 7. Create several ggplot2 files saved as .png as output of this whole analysis
 
