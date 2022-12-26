@@ -1,4 +1,4 @@
-## 01 Download data from 
+## 01 Download data from GISS NASA website.R
 
 # Downloaded data from
 # https://data.giss.nasa.gov/gistemp/
