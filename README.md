@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=fskblEWSeWU. From https://www.youtube.com/@Riffo
 
 ### Output
 
-Following the above videos, I am replicating the Global Temperature plot displayed when selecting “**Global Temperature**” indicator from above website.
+Following the above videos, I am replicating the Global Temperature plot displayed when selecting “**Global Temperature**” indicator from GISS Surface Temperature Analysis (GISTEMP v4) website.
 
 
 ### Data 
