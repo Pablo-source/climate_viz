@@ -11,7 +11,7 @@ I will be using RStudio to create several R and Rmarkdown scripts, doing GiHub c
 
 ### References
 
-1. Tutorial for Creating a new RStudio project with GitHub to visualize climate change (CC213). Riffamonas Project
+1. Tutorial for Creating a new RStudio project with GitHub to visualize climate change (CC213). Riffomonas Project
 https://www.youtube.com/watch?v=d5dUkO5lXds&list=PLmNrK_nkqBpLdTEOj_-bwp58490i8ezRI&index=9
 
 2. Tutorial to mimic Climate Change temperature visualization from NASA. "Plotting the global temperature index using ggplot2 and NASA GISS data (CC214)"  
