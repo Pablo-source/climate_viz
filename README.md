@@ -1,7 +1,7 @@
 # climate_viz
 Climate change visualizations and Github
 
-# Project to practise how to integrage RStudio with GitHub 
+# Project to practise how to integrate RStudio with GitHub 
 
 ## AIM
 
