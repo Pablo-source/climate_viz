@@ -7,7 +7,7 @@ Climate change visualizations and Github
 
 I have setup this GitHub repo to practise a new workflow with **RStudio project linked to GitHub**. Creating a new Project in RStudio and selecting **Version Control** option, allowing local RStudio project to link with an existing GitHub repository previouisly created, called climate_viz.
 
-I am using RStudio to create several R and Rmarkdown scripts, doing **commits** and **pusth** GitHub actions to this **climate_viz** GitHub repo directly from RStudio IDE. 
+RStudio is used to create several R and Rmarkdown scripts, doing **commits** and **pusth** GitHub actions to this **climate_viz** GitHub repo from the IDE. 
 
 ### References
 
