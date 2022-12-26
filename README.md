@@ -48,6 +48,13 @@ Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GIS
 
 1. Learn how to obtain a **personal access token in GiHub** to Clone the newly created GitHUb repository **climate_viz**
 
+- Check existing SSH key and adding it to the SSH-agent
+- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
+- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+- Add a new SSH Key to your GitHub account
+- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
 2. Create a new version control project in RStudio. And also create new folders within this new project
 
 3. When creating this new version control project I will need the **HTTPS** GitHub climate_viz URL address to link my local RStudio Project with GitHub.This will allow me to create new GitHub **actions** such as **Commit** and **Push** from **RStudio** directly into my GitHub repository
