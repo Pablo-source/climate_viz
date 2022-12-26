@@ -73,7 +73,12 @@ Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GIS
 
 5. Commit each changes (for start on these README files) from RStudio to GitHub using the Git tab enabled by creating a new version control project in RStudio
 
+![image](https://user-images.githubusercontent.com/76554081/209535893-f7e0cf14-6f73-4ef9-822c-278463402646.png)
+![image](https://user-images.githubusercontent.com/76554081/209535916-49eb747a-2d35-4c5c-bba3-caa0a418ec05.png)
+
 6. Then Push the changes to the GitHub repo to be able to go over the GitHub website and see the new files published in the climate_viz repository
+
+![image](https://user-images.githubusercontent.com/76554081/209536005-187dddbc-fcbe-4635-a9a9-63c8b15ff8ba.png)
 
 7. Create several ggplot2 files saved as .png as output of this whole analysis
 
