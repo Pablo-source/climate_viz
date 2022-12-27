@@ -1,5 +1,5 @@
 # climate_viz
-Climate change visualizations and Github
+Workflow using RStudio linked to a GitHub project, to commit works to git version control, aimed to create ggplot2 plots about climate change metrics
 
 # Project to practise how to integrate RStudio with GitHub 
 
