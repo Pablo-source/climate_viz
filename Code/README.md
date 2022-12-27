@@ -6,3 +6,4 @@ We will download original data from URL using .csv file URL
 
 - 00 Project folder setup.R
 - 01 Download data from GISS NASA website.R
+- 02 Import data into R.R
