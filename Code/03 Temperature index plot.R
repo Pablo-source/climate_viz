@@ -157,7 +157,7 @@ Data_plot_legend_color
 
 ggsave("Figures/06 temperature_index_title_geom_smooth_incl_legends.png", width = 6, height = 4)
 
-# Feature 04: Change legend shape
+# Feature 04: Change legend shape  
 # We have to modify geom_point() function to replace them by a square shape
 
 Data_plot_legend_shape <- Data %>% 
