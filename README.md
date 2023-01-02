@@ -89,7 +89,8 @@ Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GIS
 - Below is a plot after several enhancements on the plot titles and sub-titles design and legends layout
 ![07 temperature_index_title_geom_smooth_legengs_formatted](https://user-images.githubusercontent.com/76554081/209705354-063c8c5b-caea-4e3c-92ec-6fa51824e69a.png)
 
-And the latest change correponds to placing the legend inside the plot area
+Finally we place legend inside the plot area
+
 ![08 temperature_index_legend_position_formatted](https://user-images.githubusercontent.com/76554081/210270467-8c9747e8-72e9-49b2-a853-99fd429f5789.png)
 
 
