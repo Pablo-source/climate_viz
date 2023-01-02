@@ -97,3 +97,5 @@ Finally we place legend inside the plot area
 8. In the next phase of this project i will create these plots and publish them to a GitHub website
 
 9. And finally, create several GitHub actions to automate the refresh of these plots on the above website when new data becomes available. To practise the set of GitHub actions that enable to automate the creation of Markdown and HTML documents 
+
+By using this Version Control project in RStudio that links with a GitHub project, I have been able to work seamlesly editing and commiting my files from RStudio into this climate_viz GitHub repo, this is a much faster and steamlined workflow than the one I used to work with two weeks ago. 
