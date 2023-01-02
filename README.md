@@ -83,6 +83,13 @@ Data source: NASA's Goddard Institute for Space Studies (GISS). Credit: NASA/GIS
 
 7. Create several ggplot2 files saved as .png as output of this whole analysis
 
+- This is the first plot without any enhancements: 
+![01 temperature_index_plot_initial_output](https://user-images.githubusercontent.com/76554081/209705318-29ab568e-a531-4a95-bb54-d462d9eb8501.png)
+
+- Below is a plot after several enhancements on the plot titles and sub-titles design and legends layout
+![07 temperature_index_title_geom_smooth_legengs_formatted](https://user-images.githubusercontent.com/76554081/209705354-063c8c5b-caea-4e3c-92ec-6fa51824e69a.png)
+
+
 8. In the next phase of this project i will create these plots and publish them to a GitHub website
 
 9. And finally, create several GitHub actions to automate the refresh of these plots on the above website when new data becomes available. To practise the set of GitHub actions that enable to automate the creation of Markdown and HTML documents 
